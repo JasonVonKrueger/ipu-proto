@@ -12,6 +12,7 @@
         <script><![CDATA[var test_devops_course = Class.create();
 test_devops_course.prototype = {
     initialize: function() {
+            //gs.log('fred the cat');
     },
 
     type: 'test_devops_course'
