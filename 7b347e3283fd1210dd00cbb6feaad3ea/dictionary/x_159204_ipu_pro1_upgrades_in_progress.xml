@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="f8f5763683fd1210dd00cbb6feaad3c5" label="Upgrades In Progress" max_length="40" name="x_159204_ipu_pro1_upgrades_in_progress" text_index="true" type="collection">
+        <element label="End Time" max_length="40" name="end_time" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Server" max_length="32" name="server" reference="cmdb_ci_linux_server" type="reference"/>
+        <element label="Started by" max_length="32" name="started_by" reference="sys_user" type="reference"/>
+        <element label="Start Time" max_length="40" name="start_time" type="glide_date_time"/>
+        <element label="Upgrade Started" max_length="40" name="upgrade_started" type="glide_date_time"/>
+        <index name="index">
+            <element name="server"/>
+        </index>
+        <index name="index2">
+            <element name="started_by"/>
+        </index>
+    </element>
+</database>

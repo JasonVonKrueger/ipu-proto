@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_tab">
+    <par_dashboard_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color/>
+        <dashboard display_value="IPU proto 1">4b4b3afabefd121042e5a26363c0a1c5</dashboard>
+        <name>Tab</name>
+        <order>0</order>
+        <sys_class_name>par_dashboard_tab</sys_class_name>
+        <sys_created_by>nervous_sow</sys_created_by>
+        <sys_created_on>2024-11-15 03:10:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>074b3afa13fd12103c87ce1c726f5bc4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+        <sys_update_name>par_dashboard_tab_074b3afa13fd12103c87ce1c726f5bc4</sys_update_name>
+        <sys_updated_by>nervous_sow</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:10:21</sys_updated_on>
+    </par_dashboard_tab>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_159204_ipu_pro1_upgrades_in_progress">x_159204_ipu_pro1_upgrades_in_progress</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>UIP</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>nervous_sow</sys_created_by>
+        <sys_created_on>2024-11-15 02:46:57</sys_created_on>
+        <sys_id>30f5763683fd1210dd00cbb6feaad3e9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>UIP</sys_name>
+        <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+        <sys_update_name>sys_number_30f5763683fd1210dd00cbb6feaad3e9</sys_update_name>
+        <sys_updated_by>nervous_sow</sys_updated_by>
+        <sys_updated_on>2024-11-15 02:46:57</sys_updated_on>
+    </sys_number>
+</record_update>

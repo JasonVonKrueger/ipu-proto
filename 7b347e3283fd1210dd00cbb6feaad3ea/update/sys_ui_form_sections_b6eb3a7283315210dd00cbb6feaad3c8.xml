@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="b6eb3a7283315210dd00cbb6feaad3c8" sys_domain="global" table="cmdb_ci_linux_server" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>32eb7a7283315210dd00cbb6feaad3a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_linux_server" name="cmdb_ci_linux_server" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">b6eb3a7283315210dd00cbb6feaad3c8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="cmdb_ci_linux_server" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">f6eb3a7283315210dd00cbb6feaad3cb</sys_ui_section>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6eb7a7283315210dd00cbb6feaad3a9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_linux_server" name="cmdb_ci_linux_server" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">b6eb3a7283315210dd00cbb6feaad3c8</sys_ui_form>
+            <sys_ui_section caption="Configuration" display_value="Configuration" name="cmdb_ci_linux_server" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">f2eb7a7283315210dd00cbb6feaad3a8</sys_ui_section>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>cmdb_ci_linux_server</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6eb3a7283315210dd00cbb6feaad3c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_linux_server</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b6eb3a7283315210dd00cbb6feaad3c8</sys_update_name>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace IPU proto 1 0" name="workspace-ipu-proto-1-0">874b3afae9fd1210f8b9702c254190c2</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

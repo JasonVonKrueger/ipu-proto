@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <applies_to/>
+        <condition/>
+        <controlled_by_refs/>
+        <decision_type>allow</decision_type>
+        <description/>
+        <local_or_existing/>
+        <name>x.159204.ipu-proto-1.*</name>
+        <operation display_value="read">read</operation>
+        <script><![CDATA[answer = gs.getSession().isLoggedIn();
+if (!answer) {
+    answer = gs.getProperty('glide.security.allow_unauth_roleless_acl', false);
+}]]></script>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>nervous_sow</sys_created_by>
+        <sys_created_on>2024-11-15 03:10:21</sys_created_on>
+        <sys_id>cf4b3afafafd12109ed893dbba1083c2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x.159204.ipu-proto-1.*</sys_name>
+        <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+        <sys_update_name>sys_security_acl_cf4b3afafafd12109ed893dbba1083c2</sys_update_name>
+        <sys_updated_by>nervous_sow</sys_updated_by>
+        <sys_updated_on>2024-11-15 03:10:21</sys_updated_on>
+        <type display_value="ux_route">b9eb8a1b873303002941b53046cb1234</type>
+    </sys_security_acl>
+</record_update>

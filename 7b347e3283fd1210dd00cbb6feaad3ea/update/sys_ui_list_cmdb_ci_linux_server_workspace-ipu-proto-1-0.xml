@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="cmdb_ci_linux_server" version="2" view="workspace-ipu-proto-1-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_ci_linux_server" element="NULL" name="cmdb_ci_linux_server" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">faeb7a7283315210dd00cbb6feaad341</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_id>f6eb7a7283315210dd00cbb6feaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os</element>
+            <list_id display_value="cmdb_ci_linux_server" element="NULL" name="cmdb_ci_linux_server" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">faeb7a7283315210dd00cbb6feaad341</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_id>faeb7a7283315210dd00cbb6feaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>os_version</element>
+            <list_id display_value="cmdb_ci_linux_server" element="NULL" name="cmdb_ci_linux_server" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">faeb7a7283315210dd00cbb6feaad341</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_id>feeb7a7283315210dd00cbb6feaad342</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>manufacturer</element>
+            <list_id display_value="cmdb_ci_linux_server" element="NULL" name="cmdb_ci_linux_server" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">faeb7a7283315210dd00cbb6feaad341</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_id>f2eb7a7283315210dd00cbb6feaad343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_ci_linux_server</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>faeb7a7283315210dd00cbb6feaad341</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_ci_linux_server</sys_name>
+            <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_ci_linux_server_workspace-ipu-proto-1-0</sys_update_name>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:13:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace IPU proto 1 0" name="workspace-ipu-proto-1-0">874b3afae9fd1210f8b9702c254190c2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

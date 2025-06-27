@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_159204_ipu_pro1_request" version="2" view="workspace-ipu-proto-1-0">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>4aebf67283315210dd00cbb6feaad3ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>42ebf67283315210dd00cbb6feaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>46ebf67283315210dd00cbb6feaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>4aebf67283315210dd00cbb6feaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>4eebf67283315210dd00cbb6feaad3bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_class_name</element>
+            <list_id display_value="x_159204_ipu_pro1_request" element="NULL" name="x_159204_ipu_pro1_request" parent="NULL" relationship="NULL" sys_domain="global" view="874b3afae9fd1210f8b9702c254190c2">86ebf67283315210dd00cbb6feaad3a0</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_id>42ebf67283315210dd00cbb6feaad3bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_159204_ipu_pro1_request</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>nervous_sow</sys_created_by>
+            <sys_created_on>2024-11-15 03:12:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86ebf67283315210dd00cbb6feaad3a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_159204_ipu_pro1_request</sys_name>
+            <sys_package display_value="IPU proto 1" source="x_159204_ipu_pro1">7b347e3283fd1210dd00cbb6feaad3ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPU proto 1">7b347e3283fd1210dd00cbb6feaad3ea</sys_scope>
+            <sys_update_name>sys_ui_list_x_159204_ipu_pro1_request_workspace-ipu-proto-1-0</sys_update_name>
+            <sys_updated_by>nervous_sow</sys_updated_by>
+            <sys_updated_on>2024-11-15 03:12:59</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace IPU proto 1 0" name="workspace-ipu-proto-1-0">874b3afae9fd1210f8b9702c254190c2</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
